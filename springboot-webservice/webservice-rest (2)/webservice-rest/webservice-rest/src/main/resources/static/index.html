@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exemplo Webservice REST - frontend</title>
+</head>
+<body>
+    <h1>Projeto Webservice REST - frontend web</h1>
+    <table id="dados">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nome</th>
+                <th>Detalhes</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <div id="detalhes"></div>
+    <script src="funcoes.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            findAll();
+        });
+    </script>
+</body>
+</html>
