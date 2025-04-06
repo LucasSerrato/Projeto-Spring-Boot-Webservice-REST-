@@ -1,6 +1,4 @@
----
 
-```markdown
 # Spring Boot RESTful Web Service Project
 
 This is a university project developed as part of my coursework in Analysis and Systems Development.  
@@ -83,14 +81,14 @@ Feel free to fork this repository, submit issues or pull requests. Contributions
 
 ## 📧 Contact
 
+
 Lucas Serrato  
-[LinkedIn Profile](https://www.linkedin.com/in/seu-perfil)  
-Email: your.email@example.com
-```
+[Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
+Email: alfalifeclothes@gmail.com
 
----
 
-```markdown
+
+
 # Projeto Spring Boot - Webservice REST
 
 Este é um projeto universitário desenvolvido como parte da minha formação em Análise e Desenvolvimento de Sistemas.  
@@ -174,8 +172,8 @@ Sinta-se à vontade para forkar este repositório, enviar issues ou pull request
 ## 📧 Contato
 
 Lucas Serrato  
-[Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-Email: your.email@example.com
+[Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
+Email: alfalifeclothes@gmail.com
 ```
 
 ---
