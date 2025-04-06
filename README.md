@@ -85,6 +85,7 @@ Feel free to fork this repository, submit issues or pull requests. Contributions
 Lucas Serrato  
 [Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
 Email: alfalifeclothes@gmail.com
+"Want to support my work? You can donate here: https://livepix.gg/lkshow"
 
 
 
@@ -174,8 +175,6 @@ Sinta-se à vontade para forkar este repositório, enviar issues ou pull request
 Lucas Serrato  
 [Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
 Email: alfalifeclothes@gmail.com
+"Quer apoiar o meu trabalho? Você pode doar aqui: https://livepix.gg/lkshow"
 ```
 
----
-
-Se quiser, posso transformar isso em um arquivo pronto `.md` ou te ajudar a colocar diretamente no GitHub. Deseja isso?
